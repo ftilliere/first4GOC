@@ -2,7 +2,8 @@
 Test
 Fred TILLIERE 
 
-		First repository  _ apprenti codeur
+		Je peux me définir comme apprenti codeur, enfin plus ou moins car j'ai un passé HTML, CSS, Javascript de la 			grande époque : 1996-2000
 	
-		je crée ce fichier pour démarrer sur Github
+		Je crée ce fichier pour démarrer sur Github dans le cadre de la formation Simplonline
+		
 		
